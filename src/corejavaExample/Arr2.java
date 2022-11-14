@@ -26,6 +26,9 @@ public class Arr2 {
 			System.out.print(arrayList.get(i) +" ");
 		
 
+		//for (int i : arrayList) {
+		//	System.out.print(i+" "); 
+	//	}   
 	}
-
 }
+
