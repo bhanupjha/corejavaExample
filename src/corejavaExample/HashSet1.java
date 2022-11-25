@@ -16,11 +16,11 @@ public class HashSet1 {
 		
 		System.out.println(hashset);
 		
-		System.out.println("Set contains c or  not? " +hashset.contains("c"));
+		System.out.println("Set contains c or  not? " +hashset.contains("C"));
 	
-    	hashset.remove("A");
+     	hashset.remove("A");
 	   System.out.println("Set after removing A: " +hashset);
-	
+
 
 //		for(String item: HashSet) {
 //			System.out.print(item);
