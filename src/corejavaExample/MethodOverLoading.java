@@ -12,7 +12,7 @@ public class MethodOverLoading {
 	}
 	public static void main (String args[]) {
 		MethodOverLoading methodoverloading = new MethodOverLoading();
-		System.out.println(methodoverloading.multiply(10,20) );
+		System.out.println(methodoverloading.multiply(10,20));
 		System.out.println(methodoverloading.multiply(10,20,30));
 		System.out.println(methodoverloading.multiply(10.5,20.5));
 		
