@@ -1,9 +1,8 @@
-package methodOverRiding;
+package corejavaExample.MethodOverRiding;
 
 public class MethodOverRiding {
-
-	public static void main(String[] args) {
-		   Bike bike = new Bike(10,1);
+	public static void main (String[] args) {
+	        Bike bike = new Bike(10,1);
 	        System.out.println("Bike gear is: " +bike.gear);
 	        System.out.println("Bike speed is: " +bike.speed);
 	        bike.applyBrake(1);

@@ -1,4 +1,4 @@
-package methodOverRiding;
+package corejavaExample.MethodOverRiding;
 
 public class Bike {
 	 protected int gear;
@@ -18,5 +18,4 @@ public class Bike {
 	public void speedup(int increment) {
 		speed += increment;
 	}
-
 }
