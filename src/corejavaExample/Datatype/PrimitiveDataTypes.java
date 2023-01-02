@@ -6,9 +6,9 @@ public class PrimitiveDataTypes {
 		
 		 byte a = 26;
 		 
-		 short b = 2388;
+		 short b = 23;
 		 
-		 int c = 233656689;
+		 int c = 233;
 		 
 		 long d = 2333;
 		 
